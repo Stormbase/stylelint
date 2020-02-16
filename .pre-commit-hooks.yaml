@@ -1,0 +1,7 @@
+- id: stylelint
+  name: Stylelint
+  description: "Stylelint: A mighty, modern style linter"
+  entry: stylelint
+  language: node
+  require_serial: true
+  types: [scss]
